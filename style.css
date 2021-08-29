@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+#top {
+  height: 40px;
+  background: linear-gradient(
+    to right,
+    #54b39d 20%,
+    #fabaae 20% 40%,
+    #080c0d 40% 60%,
+    #54b39d 60% 80%,
+    #fabaae 80%
+  );
+}
+
+#intro {
+  margin-top: 70px;
+  margin-bottom: 70px;
+  margin-right: 0px;
+  margin-left: 0px;
+  text-align: center;
+}
+
+.about {
+  background-color: #54b39d;
+  text-align: center;
+  padding: 40px;
+}
+
+.skills {
+  text-align: center;
+  padding: 30px;
+  background-color: #fabaae;
+}
+
+#bottom {
+  height: 40px;
+  background: linear-gradient(
+    to right,
+    #54b39d 20%,
+    #fabaae 20% 40%,
+    #080c0d 40% 60%,
+    #54b39d 60% 80%,
+    #fabaae 80%
+  );
+}
